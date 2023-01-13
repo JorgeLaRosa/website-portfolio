@@ -1,0 +1,117 @@
+*{
+    font-family: 'Rubik', sans-serif;
+
+
+}
+
+#body-div{
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+#introduce-title{
+    font-size: 34px;
+    margin-bottom: 0px;
+}
+
+#introduce-secondary-text{
+    color: gray;
+    font-weight: 500;
+    margin-top: 0px;
+}
+
+
+#introduce-description{
+    font-weight: 300;
+    color: gray;
+
+}
+
+#button{
+    background-color: rgb(84, 142, 84);
+    color: white;
+}
+
+#about-div{
+    margin-top: 80px;
+
+}
+
+#about-title{
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+
+#about-secondary-text{
+    color: rgb(139, 139, 139);
+    margin-top: 0px;
+    font-weight: 500;
+
+}
+
+#about-description{
+    color: gray;
+    font-weight: 300;
+}
+
+#portfolio-div{
+    margin-top: 80px;
+}
+
+#portfolio-title{
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+
+#portfolio-secondary-text{
+    color: rgb(119, 119, 119);
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+#card-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+#portfolio-card{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    border-radius: 10px;
+    text-align: left;  
+    margin-bottom: 80px;  
+}
+
+.foto{
+    border: 1px solid rgb(208, 208, 208);
+    border-radius: 4px;
+}
+
+#card-title{
+    margin-top:10px;
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+#card-subtitle{
+    margin-top: 0px;
+    font-size: 12px;
+    color: gray;
+}
+
+#card-text-section{
+    display: flex;
+    justify-content:space-between;
+
+}
+#card-description{
+    color: rgb(88, 88, 88);
+}
+
+
